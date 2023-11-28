@@ -6,7 +6,7 @@
 
 
 # Author
-北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
+北島栄司 （[https://twitter.com/1220_eiji](https://twitter.com/1220_eiji)）
 
 # License
 - This project is licensed under the MIT License
